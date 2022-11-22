@@ -4,6 +4,6 @@ My name is Abror Shopulatov, currently **freshman student** at **University of S
 
 In that blog, I am going to highlight some of thing that I found interesting. All of the work is personal, so you might disagree some or all of it. In that case feel free to email me.
 
-Other than this blog, you can find me on [LinkedIn](https://www.linkedin.com/in/abrorshopulatov/), [GitHub](https://www.github.com/shopulatov) and [kaggle](https://www.kaggle.com/abrorshopulatov)
+Other than this blog, you can find me on [LinkedIn](https://www.linkedin.com/in/abrorshopulatov/), [GitHub](https://www.github.com/shopulatov), [kaggle](https://www.kaggle.com/abrorshopulatov) and [HuggingFace](https://huggingface.co/murodbek)
 
 
