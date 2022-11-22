@@ -7,7 +7,7 @@ Mundarija:
 
 Qanday qilib fast.ai va deeplearning.ai kurslarining ikkalasini ham o’rganib ‘overfit’ bo’lib qolmaslik haqida
 
-![](/images/first-blog/fastai-deeplearning.png "Qaysi biri yaxshiroq? BALKI IKKALASI HAMDIR")
+![](/images/first-blog/fastai-deeplearningai.png "Qaysi biri yaxshiroq? BALKI IKKALASI HAMDIR")
 
 Data Science va Sun’iy Intellekt sohalari qiziquvchilar kundan kunga ortib bormoqda. Ham izlanish ham haqiqiy hayotda qo’llanilish jihatidan ulkan yutuqlarga erishilmoqda. Bu esa albatta o’quvchi va bu sohaga qiziqqanlar uchun imkoniyatlar eshigini ochadi. Ammo, o’rganish uchun algoritmlar, dasturlash va muhandislik ko’nikmalari va yangidan-yangi maqolalar nixoyatda ko’p.
 
