@@ -11,7 +11,7 @@ description: The things that I found interesting to blog in the way to exploring
 
 # Email and twitter are optional:
 email: abror.shopolatov@gmail.com
-twitter_username: boringai
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math:
