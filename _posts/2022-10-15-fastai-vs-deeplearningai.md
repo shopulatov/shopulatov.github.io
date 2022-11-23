@@ -45,13 +45,13 @@ Bu sohalarni o’rganayotganlar uchun ko’plab kurslar ishlab chiqilgan bo’li
 
 ![](/images/first-blog/deeplearningai.png "Andryu Ng")
 
-DeepLearning.ai Andryu Ng tomonidan ishlab chiqilgan pullik kurs. Uning boshqa kurslariga o’xshab, bu yaxshi tuzilgan o’quv tizimi, qiziqarli o’qitish uslubi va qiyin ammo qiziqarli topshiriqlari bilan mashxur. Bu adashib ketmaslikni xohlovchilar uchun kurs sifatida qabul qilingan. Bunda fundamental teoriyalardan boshlanib, haqiqiy hayotiy muammolarni hal qilish uchun barcha qismlarni qanday qilib birlashtirishga qaratilgan. Bu yondashuvning nomi “YUQORIDAN PASTGA” .
+DeepLearning.ai Andryu Ng tomonidan ishlab chiqilgan pullik kurs. Uning boshqa kurslariga o’xshab, bu yaxshi tuzilgan o’quv tizimi, qiziqarli o’qitish uslubi va qiyin ammo qiziqarli topshiriqlari bilan mashxur. Bu adashib ketmaslikni xohlovchilar uchun kurs sifatida qabul qilingan. Bunda fundamental teoriyalardan boshlanib, haqiqiy hayotiy muammolarni hal qilish uchun barcha qismlarni qanday qilib birlashtirishga qaratilgan. Bu yondashuvning nomi “PASTDAN YUQORIGA” .
 
 ## fast.ai
 
 ![](/images/first-blog/fastai.png "Jeremi Hovard va Reychel Tomas")
 
-fast.ai Jeremi Hovard va Reychel Tomas tomonidan kodlash tajribasiga ega bo’lgan odamlarga san’at darajasidagi ML o’rgatish uchun bepul kurs sifatida tanishtirilgan. Bu kurs talabalri asosiy teoriyalarni bilmasdan turib bir necha qator kod bilan o’z sohalarida misli ko’rilmagan yutuqlarga erisha oladi.(Men 1-darsdan so’ng Xitoy kaliligrafiyalarini 96% aniqlikda ajratadigan model yaratdim va uni Cloudga joylashtirdim.) Bunda sizga dastlab hayotiy muammolar yechimi birinchi ko’rsatilib, keyin chuqurroq o’rganishgacha olib boradi. Bu yondashuvning nomi esa ‘PASTDAN TEPAGA’ deyiladi.
+fast.ai Jeremi Hovard va Reychel Tomas tomonidan kodlash tajribasiga ega bo’lgan odamlarga san’at darajasidagi ML o’rgatish uchun bepul kurs sifatida tanishtirilgan. Bu kurs talabalri asosiy teoriyalarni bilmasdan turib bir necha qator kod bilan o’z sohalarida misli ko’rilmagan yutuqlarga erisha oladi.(Men 1-darsdan so’ng [Xitoy kaliligrafiyalarini 96% aniqlikda ajratadigan model yaratdim](https://medium.com/datadriveninvestor/deep-learning-models-by-fast-ai-library-c1cccc13e2b3) va uni [Cloud Serverga joylashtirdim](https://towardsdatascience.com/how-to-deploy-your-machine-learning-web-app-to-digital-ocean-64bd19ce15e2)). Bunda sizga dastlab hayotiy muammolar yechimi birinchi ko’rsatilib, keyin chuqurroq o’rganishgacha olib boradi. Bu yondashuvning nomi esa ‘TEPADAN PASTGA’ deyiladi.
 
 ## Demak qaysi bir yaxshiroq? Javob: ikkalasi ham
 
@@ -63,4 +63,4 @@ Bu ikki kurs bir-birini to’ldiruvchidir. Dastlab Andryu Ng ning kurslaridan bo
 
 Bu ikki kursni birgalikda tugatishdan oladigan eng yaxshi narsalarigizdan biri siz deyarli tayyorsiz. Sizdan fast.ai kursidan ish beruvchilarga ko’rsatishingiz mumkin bo’lgan ko’plab loyihalar va bular haqida yaxshigina tasovvur bo’ladi. Endi siz har tomonlama rivojlangan Data Scientistsiz. Ajoyib, shunday emasmi?
 
-P.S. Maqola Michael Li tomonidan towardsdatascience.com saytida 2019-yil 24-sentabrda yozilgan.
+P.S. Maqola Michael Li tomonidan [towardsdatascience.com](https://towardsdatascience.com/two-sides-of-the-same-coin-fast-ai-vs-deeplearning-ai-b67e9ec32133) saytida 2019-yil 24-sentabrda yozilgan.
