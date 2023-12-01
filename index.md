@@ -2,6 +2,6 @@ I am a **Machine Learning Engineer** at **Tahrirchi.uz** where we are trying to 
 
 Opinions are my own.
 
-I initially started writing blogs here, but find Substack more suitable. If you are interested, feel free to go murodbek.substack.com and enjoy.
+I initially started writing blogs here, but find Substack more suitable. If you are interested, feel free to go https://murodbek.substack.com/ and enjoy.
 
 Other than this blog, find me on [LinkedIn](https://www.linkedin.com/in/abrorshopulatov/), [GitHub](https://www.github.com/shopulatov), and [HuggingFace](https://huggingface.co/murodbek)
